@@ -1,0 +1,18 @@
+# Ignorar entornos virtuales
+venv/
+.env/
+__pycache__/
+*.pyc
+
+# VSCode local settings (optional, if you want to exclude)
+.vscode/
+
+# Archivos temporales
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
